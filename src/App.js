@@ -8,6 +8,7 @@ function App() {
 <input type='text' placeholder='type your name...'/>
 <input type='email' placeholder='type your email...'/>
 <input type='password' placeholder='type your password...'/>
+<input  className='submit' type="submit" />
 </form>
     </div>
   );
